@@ -1,0 +1,10 @@
+C:\Users\Axel Asus\Desktop\tp uno\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\bin\Debug\Guzman.Axel.tpuno.exe.config
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\bin\Debug\Guzman.Axel.tpuno.exe.config
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\obj\Debug\Guzman.Axel.tpuno.csprojResolveAssemblyReference.cache
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\obj\Debug\Guzman.Axel.tpuno.frmCalculadora.resources
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\obj\Debug\Guzman.Axel.tpuno.Properties.Resources.resources
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\obj\Debug\Guzman.Axel.tpuno.csproj.GenerateResource.Cache
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\bin\Debug\Guzman.Axel.tpuno.exe
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\bin\Debug\Guzman.Axel.tpuno.pdb
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\obj\Debug\Guzman.Axel.tpuno.exe
+C:\Users\Axel Asus\Desktop\tp 1\Guzman.Axel.tpuno\Guzman.Axel.tpuno\obj\Debug\Guzman.Axel.tpuno.pdb
